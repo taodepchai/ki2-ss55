@@ -1,0 +1,11 @@
+{
+  "a": [
+    {
+      "id": 1,
+      "title": "Tiêu đề mới của bài viết",
+      "content": "Nội dung mới của bài viết",
+      "author": "Tên tác giả mới",
+      "published_date": "2024-01-01T00:00:00Z"
+    }
+  ]
+}

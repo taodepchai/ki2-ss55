@@ -1,0 +1,17 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Tiêu đề của bài viết",
+      "content": "Nội dung chi tiết của bài viết",
+      "author": "Tên tác giả",
+      "published_date": "2024-01-01T00:00:00Z",
+      "b": [
+        {
+          "id": 2,
+          "aa": "1111"
+        }
+      ]
+    }
+  ]
+}
